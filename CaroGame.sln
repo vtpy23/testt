@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaroGame", "CaroGame\CaroGame.vcxproj", "{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Debug|x64.ActiveCfg = Debug|x64
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Debug|x64.Build.0 = Debug|x64
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Debug|x86.Build.0 = Debug|Win32
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Release|x64.ActiveCfg = Release|x64
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Release|x64.Build.0 = Release|x64
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Release|x86.ActiveCfg = Release|Win32
+		{1E13FA3A-96D2-49AA-9C53-28AADF0041C5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD388DFF-BC39-4437-8F43-A8DB6033889D}
+	EndGlobalSection
+EndGlobal
